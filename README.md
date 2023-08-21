@@ -1,3 +1,7 @@
+<div align=center><h3>🚀 Paprika / 박소영 🚀</h3><br>
+  Java / Spring을 주력으로 하는 박소영 개발자입니다.<br>
+</div>
+
 <div align=center><h3>📚 Tech Stacks 📚</h3></div>
 <br>
 
